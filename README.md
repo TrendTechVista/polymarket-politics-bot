@@ -1,6 +1,11 @@
-# Polymarket Politics Bot
+# polymarket politics bot
 
 TypeScript/Node bot for **politics prediction markets** on Polymarket: **elections**, **referendums**, **leadership**, and **policy**. Implements **value betting** and **arbitrage** strategies.
+
+## Contact me for more profitable bots
+<a href="https://t.me/cashblaze129" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
+</a>
 
 ## Politics market types
 
